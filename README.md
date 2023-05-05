@@ -1,1 +1,3 @@
-# Cy_UI_Testing_Patterns_BDD_Cucumber
+Script de testes utilizando BDD com Cucumber
+
+Documentação npm https://www.npmjs.com/package/cypress-cucumber-preprocessor
